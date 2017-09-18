@@ -1,0 +1,26 @@
+/** General **/
+.row{
+  max-width: 100%;
+}
+
+/** Navigation **/
+
+/** Orbit **/
+.orbit img{
+  max-height: 21em;
+}
+
+/** Main **/
+.main{
+  padding: 2em 0;
+}
+
+
+
+/** Footer **/
+.footer{
+  padding: 2em 0;
+  background-color: lightblue;
+  text-align: center;
+
+}
